@@ -17,6 +17,7 @@ Clone this repository on to your local PC
 - By the right end of the read-only input containing the repository link click the clipboard icon to copy the link
 - In your local PC, open your terminal in the folder you would like to clone the repository into
 - Clone the repository with the command: `git clone (copied link)`; like so: `git clone https://github.com/TedLivist/bubble_sort.git`
+- After the clone, type in the command `cd bubble_sort` to access the directory on the terminal
 
 
 ## Authors
