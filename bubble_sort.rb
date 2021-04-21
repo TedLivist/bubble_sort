@@ -35,12 +35,3 @@ def bubble_sort_by(arr)
   end
   arr
 end
-
-a = [2, 5, 18, 7, 3, 14]
-p bubble_sort(a)
-
-bubble_by = bubble_sort_by %w[hi hello hey] do |left, right|
-  left.length - right.length
-end
-
-p bubble_by
