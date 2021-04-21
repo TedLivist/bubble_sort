@@ -35,8 +35,3 @@ def bubble_sort_by(arr)
   end
   arr
 end
-
-a = [8, 7, 6, 5, 4, 4, 2, 1, 9, 10]
-p bubble_sort(a)
-
-p (bubble_sort_by(unsorted) { |left, right| left.length - right.length }).to eq %w[h hi hey hiya hello]
