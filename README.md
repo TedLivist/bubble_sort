@@ -1,8 +1,6 @@
 # Bubble Sort
 
-> This is a required project from Microverse. It contains two methods: bubble_sort and bubble_sort_by
-> The bubble_sort method takes in and array of numbers and returns a sorted array
-> The bubble_sort_by method takes in an array and returns a sorted array following conditions defined by the yield
+> This is a required project from Microverse. It contains two methods: bubble_sort and bubble_sort_by. The bubble_sort method takes in and array of numbers and returns a sorted array. The bubble_sort_by method takes in an array and returns a sorted array following conditions defined by the yield
 
 Additional description about the project and its features.
 
