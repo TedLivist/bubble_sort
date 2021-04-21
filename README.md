@@ -1,11 +1,8 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
-
 # Bubble Sort
 
-> This is a Microverse project. It was developed as a requirement for Microverse Ruby course.
-
-bubble_sort and bubble_sort_by methods are created to sort integers and array containing strings
-
+> This is a required project from Microverse. It contains two methods: bubble_sort and bubble_sort_by
+> The bubble_sort method takes in and array of numbers and returns a sorted array
+> The bubble_sort_by method takes in an array and returns a sorted array following conditions defined by the yield
 
 Additional description about the project and its features.
 
@@ -15,33 +12,22 @@ Ruby
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+### To get a local copy up and running simply follow the next step.
 
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+Clone this repository on to your local PC
+- Click on the `Code` green button
+- By the right end of the read-only input containing the repository link click the clipboard icon to copy the link
+- In your local PC, open your terminal in the folder you would like to clone the repository into
+- Clone the repository with the command: `git clone (copied link)`; like so: `git clone https://github.com/TedLivist/bubble_sort.git`
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Teddy-Livingstone Ememandu**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- [GitHub](https://github.com/TedLivist)
+- [Twitter](https://twitter.com/iamxted)
+- [LinkedIn](https://linkedin.com/in/tememandu)
 
 👤 **Ivana Novakovic-Lekovic**
 
@@ -61,10 +47,5 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
+- Microverse
 - Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
