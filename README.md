@@ -2,22 +2,16 @@
 
 # Bubble Sort
 
-> One paragraph statement about the project.
+> This is a Microverse project. It was developed as a requirement for Microverse Ruby course.
 
-![screenshot](./app_screenshot.png)
+bubble_sort and bubble_sort_by methods are created to sort integers and array containing strings
+
 
 Additional description about the project and its features.
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
+Ruby
 
 ## Getting Started
 
@@ -49,11 +43,11 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
+👤 **Ivana Novakovic-Lekovic**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/1v4n4)
+- Twitter: [@twitterhandle](https://twitter.com/codeIv1)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ivana-novakovic-lekovic/)
 
 ## 🤝 Contributing
 
