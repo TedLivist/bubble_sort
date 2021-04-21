@@ -4,22 +4,21 @@ def bubble_sort(arr)
   return arr
  end
 
- change=false
+ change = true
 
  while change
-
-  (l-1).times do |i|
-    if arr[i] > arr[i+1]
-      arr[i], arr[i+1] = arr[i+1],arr[i]
-      change=true
+  i = 0
+  while i < l - 1
+    if arr[i] > arr[i + 1]
+      arr[i], arr[i + 1] = arr[i + 1], arr[i]
+    else
+      change = false
     end
+    i += 1
   end
-end
-arr
+ end
+ arr
 end
 
 a = [2, 5, 18, 7, 3, 14]
 p bubble_sort(a)
-
-
-
