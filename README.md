@@ -32,7 +32,7 @@ Clone this repository on to your local PC
 
 - GitHub: [@githubhandle](https://github.com/1v4n4)
 - Twitter: [@twitterhandle](https://twitter.com/codeIv1)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/ivana-novakovic-lekovic/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/1v4n4/)
 
 ## 🤝 Contributing
 
